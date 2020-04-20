@@ -1,6 +1,6 @@
 # Repositorio del grupo CUDWB2CCDMX2001
 
-!Bienvenido al módulo de *Programación con Javascript*¡
+## ¡Bienvenido al módulo de *Programación con Javascript*!
 
 En este repositorio encontrarás el material visto en clase, las especificaciones de cada postwork por sesión y podrás subir tus soluciones a los retos o postworks.
 
