@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.mas{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#resultado{
+    margin-left: 15px;
+}
